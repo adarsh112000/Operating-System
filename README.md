@@ -1,5 +1,5 @@
 # Operating-System
-Here, I have created some important operating system programs.
+Here, I have created some important operating system programs. All these programs are created by myself.
 
 
 CPU scheduling algorithms.
