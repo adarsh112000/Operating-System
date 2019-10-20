@@ -1,3 +1,6 @@
+#CPU scheduling algorithms.
+#Round Robin
+
 at = []
 bt = []
 ct = []
@@ -57,3 +60,5 @@ for i in range(size):
 
 print("Average TurnAroundTime : %fm/s"%atat)
 print("Average Waiting Time : %fm/s"%awt)
+
+#-- Adarsh Choudhary
