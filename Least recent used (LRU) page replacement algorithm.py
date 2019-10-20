@@ -1,3 +1,6 @@
+#Page Replacement Algorithms.
+#Least recently used.
+
 print("Least recent used (LRU) page replacement algorithm")
 
 pageFaults = 0
@@ -40,3 +43,5 @@ for page in pages:
 
 print("Page Faults : ", pageFaults)
 print("Hits : ", hits)
+
+#--Adarsh Choudhary
