@@ -1,3 +1,6 @@
+#CPU Scheduling
+#Shortest Job First (non-preemptive)
+
 at = []
 bt = []
 ct = []
@@ -53,3 +56,5 @@ for i in range(size):
 
 print("Average Turn Around Time : %fm/s"%atat)
 print("Average Waiting Time : %fm/s"%awt)
+
+#--Adarsh Choudhary
