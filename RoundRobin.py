@@ -1,3 +1,6 @@
+#CPU scheduling algorithms
+#Round Robin
+
 at = []
 bt = []
 copy_bt = []
@@ -54,3 +57,5 @@ for i in range(size):
 
 print("Average TurnAroundTime : %fm/s"%atat)
 print("Average Waiting Time : %fm/s"%awt)
+
+#--Adarsh Choudhary
