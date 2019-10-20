@@ -1,3 +1,5 @@
+#--First in First out page replacement algorithm.
+
 print("First In First Out Page replacement Algorithm.")
 
 pages = []
@@ -35,3 +37,5 @@ for page in pages:
 
 print("Total Page Faults : %d"%page_faults)
 print("Total Hits : %d"%hits)
+
+#--Adarsh Choudhary
